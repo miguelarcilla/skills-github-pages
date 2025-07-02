@@ -1,5 +1,5 @@
 ---
-title: "Testing-multiple-word-titles"
+title: "Testing multiple word titles"
 date: 2025-07-02
 ---
 
